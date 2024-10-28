@@ -1,0 +1,95 @@
+.announcement-greeting {
+    position: relative;
+    width: 84px;
+    height: 19px;
+    flex-shrink: 0;
+    border-radius: 7px;
+    background: var(--Schemes-Surface-Container-Highest);
+    top: 4px;
+    /* top: 8px; */
+    left: 13px;
+    padding: 4px 10px 4px 10px;
+    color: var(--material-theme-sys-dark-surface);
+    font-size: var(--Title-Small-Size);
+    font-weight: (--Title-Small-Font-Weight);
+    line-height: var(----Title-Small-Line-Height);
+    letter-spacing: var(--Title-Small-Letter-Spacing);
+}
+
+.announcement-title {
+    position: relative;
+    top: 7px;
+    left: 12px;
+    width: 38px;
+    height: 12px;
+    flex-shrink: 0;
+    text-align: center;
+    font-size: 12px;
+    color: var(--Schemes-Surface-Container-Highest);
+    font-style: var(--Title-Small-Font-Style);
+    font-weight: var(--Title-Small-Font-Weight);
+    line-height: var(--Title-Small-Line-Height);
+    letter-spacing: var(--Title-Small-Letter-Spacing);
+}
+
+.announcement-description {
+    position: relative;
+    left: 14px;
+    top: 3px;
+    width: 158px;
+    height: 32px;
+    text-align: left;
+    font-size: 12px;
+    color: var(--Schemes-Surface-Container-Highest);
+    line-height: var(--Title-Small-Line-Height);
+    letter-spacing: var(--Title-Small-Letter-Spacing);
+    text-shadow: none;
+}
+
+.announcement-image {
+    position: relative;
+    width: 110px;
+    height: 84px;
+    flex-shrink: 0;
+    bottom: 84px;
+    left: 179px;
+    opacity: var(--sds-size-stroke-border);
+    background-color: aqua;
+
+    border-radius: 12px;
+    /* background: url('../src/Components/Images/Mines.png') lightgray 50% / cover no-repeat; */
+}
+
+.announcement-play-button {
+    position: relative;
+    width: 98px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    bottom: 83px;
+    font-weight: 400;
+    left: 15px;
+    background-color: var(--material-theme-sys-dark-primary);
+    text-align: center;
+}
+
+#button-p {
+    position: relative;
+    width: 98px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    /* bottom: 24px; */
+    top: 0;
+    border: none;
+    gap: 6.588px;
+    background-color: transparent;
+    color: var(--material-theme-sys-dark-on-primary);
+    text-align: center;
+    font-family: var(--Title-Large-Font);
+    font-size: var(--Title-Small-Font);
+    font-style: var(--Title-Small-Font-Style);
+    font-weight: var(--Title-Small-Font-Weight);
+    line-height: 24px;
+    letter-spacing: 0.15px;
+}

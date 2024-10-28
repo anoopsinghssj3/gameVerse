@@ -1,0 +1,33 @@
+:root {
+    /* font-family */
+    --Title-Large-Font: Roboto;
+
+    /* font-style */
+    --Title-Small-Font-Style: normal;
+
+    /* font-size */
+    --Title-Large-Size: 22px;
+    --Title-Small-Size: 11px;
+
+    /* line-height */
+    --Title-Large-Line-Height: 28px;
+    --Title-Small-Line-Height: 16px;
+
+    /* opacity */
+    --sds-size-stroke-border: 0px;
+
+    /* font-weight */
+    --Title-Small-Font-Weight: 500px;
+    --Title-Very-Small-Font-Weight: 300px;
+
+    /* letter-spacing */
+    --Title-Small-Letter-Spacing: 0.5px;
+
+    /* color */
+    --material-theme-sys-dark-primary: #8ECFF2;
+    --Schemes-Surface-Container-Highest: #DFE3E7;
+    --material-theme-sys-dark-surface: #0F1417;
+    --material-theme-sys-dark-surface-container-highest: #313539;
+    --material-theme-sys-next-arrow-announcement-container: #5d6266;
+    --material-theme-sys-dark-on-primary: #003548;
+}

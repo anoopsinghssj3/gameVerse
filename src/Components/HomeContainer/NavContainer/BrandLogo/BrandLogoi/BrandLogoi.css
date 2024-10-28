@@ -1,0 +1,13 @@
+.brand-logo-i {
+    position: relative;
+    width: 120px;
+    height: 28px;
+    font-style: normal;
+    font-weight: 400;
+    color: #DFE3E7;
+    font-family: var(--Title-Large-Font);
+    font-size: var(--Title-Large-Size);
+    font-weight: 400;
+    line-height: var(--Title-Large-Line-Height);
+    text-align: center;
+}

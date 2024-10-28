@@ -1,0 +1,12 @@
+.announcement-container {
+     position: relative;
+    left: 12px;
+    right: 10px; 
+    width: 305px;
+    height: 141px;
+    flex-shrink: 0;
+    top: 10px;
+    opacity: var(--sds-size-stroke-border);
+    background-color: black;
+
+}

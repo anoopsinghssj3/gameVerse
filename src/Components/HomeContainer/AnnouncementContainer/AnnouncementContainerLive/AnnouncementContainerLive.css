@@ -1,0 +1,19 @@
+.announcement-container-live {
+    position: relative;
+    flex-shrink: 0;
+    z-index: 1;
+    border-radius: 7px;
+    background: var(--material-theme-sys-dark-surface-container-highest, #313539);
+    top: 0;
+}
+
+.carousel-item {
+    width: 305px;
+    height: 141px;
+}
+
+
+.announcement-container-live button {
+    width: 10px;
+    height: 141px;
+}

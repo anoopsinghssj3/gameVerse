@@ -1,0 +1,22 @@
+.announcement-container-next {
+    position: relative;
+    width: 23px;
+    height: 141px;
+    flex-shrink: 0;
+    width: 23px;
+    height: 141px;
+    bottom: 141px;
+    left: 317px;
+    
+}
+
+.announcement-container-next button {
+    position: relative;
+    width: 23px;
+    height: 141px;
+    flex-shrink: 0;
+    bottom: 141px;
+    left: -2px;
+    background-color:var(--material-theme-sys-next-arrow-announcement-container);
+    border-radius: 7px;
+}

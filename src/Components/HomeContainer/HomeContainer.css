@@ -1,0 +1,7 @@
+.home-container {
+    width: 360px;
+    height: 640px;
+    background: var(--material-theme-sys-dark-surface);
+    position: absolute;
+    font-family: var(--Title-Large-Font);
+}
